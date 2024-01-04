@@ -11,7 +11,9 @@
 
 When creating invoice, manually or automatically, it observes if order has at least one virtual product, and if is then case, will set order in "processing" status instead of "completed".
 
-Module available to download here: https://mgt-wizards.com/virtual-processing-status-for-magento-2
+Send us an email requesting the module https://shopwhizzy.com/help-center/
+
+Free of charge.
 
 ## Installation
 
